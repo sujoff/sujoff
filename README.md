@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, Ansible, Kubernetes,**
 
-- 👯 I’m looking to collaborate on [Mage-AI](https://github.com/mage-ai)
+- 👯 I’m looking to collaborate on [Mage-AI](https://github.com/mage-ai/mage-ai)
 
 - 💬 Ask me about **CI/CD, Linux, Automation, AWS**
 
