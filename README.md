@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoff&label=Profile%20views&color=0e75b6&style=flat" alt="sujoff" /> </p>
 
-- 🔭 I’m **Senior DevOps engineer** at a leading a ride-sharing application in **Asia**
+- 🔭 I’m **Senior DevOps engineer** at quite popular ride-sharing application of **Asia**
 
-- 🌱 I’m currently using **Bash, Foreman, Ansible, Docker and Kubernetes**
+- 🌱 Currently using **Bash, Foreman, Ansible, Docker and Kubernetes in Cloud**
 
 - 👯 I’m looking to collaborate on [Mage-AI](https://github.com/mage-ai/mage-ai)
 
