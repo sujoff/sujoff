@@ -1,20 +1,21 @@
 <a href="https://github.com/sujoff?tab=repositories">
   <img src="https://github.com/sujoff/sujoff/raw/80612445c0e85432fc549670f247b0443d86b1bf/ebb10f01-031b-404b-89c3-1e7c2454319a.gif" alt="MasterHead" style="max-width:100%; height:auto;">
 </a>
+
 <h1 align="center">Hi 👋, This is Sujan</h1>
-<h3 align="center">Your Favorite AWS Engineer from Nepal</h3>
+<h3 align="center">Your Favorite AWS Engineer from Nepal&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoff&label=Profile%20views&color=0e75b6&style=flat" alt="sujoff" /> </p>
 
-- 🔭 I’m currently working on **JumJum -Ride Sharing Platform**
+- 🔭 I’m **Senior DevOps engineer** at a leading a ride-sharing application in **Asia**
 
-- 🌱 I’m currently learning **Golang, Ansible, Kubernetes,**
+- 🌱 I’m currently using **Bash, Foreman, Ansible, Docker and Kubernetes**
 
 - 👯 I’m looking to collaborate on [Mage-AI](https://github.com/mage-ai/mage-ai)
 
-- 💬 Ask me about **CI/CD, Linux, Automation, AWS**
+- 💬 Ask me about **CI/CD, Linux, Automation, Kubernetes, AWS**
 
-- 📫 How to reach me **@unixsujan at LinkedIn**
+- 📫 Find me at **@unixsujan** through LinkedIn
 
 - ⚡ Fun fact **I communicate clearly**
 
