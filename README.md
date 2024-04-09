@@ -11,7 +11,7 @@
 
 - 🌱 Currently using **Bash, Foreman, Ansible, Docker and Kubernetes in Cloud**
 
-- 👯 I’m looking to collaborate on [Mage-AI](https://github.com/mage-ai/mage-ai)
+- ⚡ I’m looking for direct job Contract at  [Upwork](https://www.upwork.com/freelancers/sujanp19)
 
 - 💬 Ask me about **CI/CD, Linux, Automation, Kubernetes, AWS**
 
