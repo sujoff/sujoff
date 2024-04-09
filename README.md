@@ -11,7 +11,7 @@
 
 - 🌱 Currently using **Bash, Foreman, Ansible, Docker and Kubernetes in Cloud**
 
-- ⚡ I’m looking for direct job Contract at  [Upwork](https://www.upwork.com/freelancers/sujanp19)
+- ⚡ Invite me with your contract at  [Upwork](https://www.upwork.com/freelancers/sujanp19)
 
 - 💬 Ask me about **CI/CD, Linux, Automation, Kubernetes, AWS**
 
