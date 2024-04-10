@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, This is Sujan</h1>
 <h3 align="center">Your Favorite AWS Engineer from Nepal&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoff&label=Profile%20views&color=0e75b6&style=flat" alt="sujoff" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoff&label=Profile%20views&color=0e75b6&style=flat" alt="sujoff" width="auto" height="27" /> </p>
 
 - 🔭 I’m **Senior System engineer** at quite popular ride-sharing platform of **Asia**
 
