@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoff&label=Profile%20views&color=0e75b6&style=flat" alt="sujoff" /> </p>
 
-- 🔭 I’m **Senior System engineer** at quite popular ride-sharing application of **Asia**
+- 🔭 I’m **Senior System engineer** at quite popular ride-sharing platform of **Asia**
 
 - 🌱 Currently using **Bash, Foreman, Ansible, Docker and Kubernetes in Cloud**
 
