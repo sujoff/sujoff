@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoff&label=Profile%20views&color=0e75b6&style=flat" alt="sujoff" width="auto" height="auto" /> </p>
 
-- 🔭 I’m **Senior SRE/Devops engineer** at quite popular ride-sharing platform of **Asia**
+- 🔭 I’m **Senior SRE/Devops engineer** at popular ride-sharing platform of **Asia**
 
-- 🌱 Currently using **Bash, Foreman, Ansible, Docker and Kubernetes in Cloud**
+- 🌱 Currently using **AWS, Terraform, Kubernetes, and several Cloud Services**
 
 - ⚡ Invite me with your contract at  [Upwork](https://www.upwork.com/freelancers/sujanp19)
 
