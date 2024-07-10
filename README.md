@@ -3,21 +3,21 @@
 </a>
 
 <h1 align="center">Hi 👋, This is Sujan</h1>
-<h3 align="center">Your Favorite Cloud Engineer from Nepal&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
+<h3 align="center">Your Favorite Cloud Engineer from Asia&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
 
 
 
-- 🔭 I’m **Senior SRE/Devops engineer** at popular ride-sharing platform of **Asia**
+- 🔭 I’m **Senior SRE/Devops engineer** at popular freelancing site [Upwork](https://www.upwork.com/freelancers/sujanp19)
 
 - 🌱 Currently using **AWS, Terraform, Kubernetes, and several Cloud Services**
 
-- ⚡ Invite me with your contract at  [Upwork](https://www.upwork.com/freelancers/sujanp19)
+- 📫 Connect with me in LinkedIn at **[@unixsujan](https://linkedin.com/in/unixsujan)**
+  
+- ⚡ Invite me with your contract [here](https://www.upwork.com/freelancers/sujanp19)
 
-- 💬 Ask me about **CI/CD, Linux, Automation, Kubernetes, AWS**
+- 💬 Ask me about **CI/CD, Linux, Terraform, Kubernetes, , Docker, AWS and Azure**
 
-- 📫 Find me at **@unixsujan** through LinkedIn
-
-- ⚡ Fun fact **I communicate clearly**
+- ⚡ Fun fact **I communicate clearly and concisely**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
