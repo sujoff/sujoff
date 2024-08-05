@@ -1,7 +1,3 @@
-<a href="https://github.com/sujoff?tab=repositories&q=&type=&language=&sort=stargazers">
-  <img src="https://github.com/sujoff/sujoff/raw/80612445c0e85432fc549670f247b0443d86b1bf/ebb10f01-031b-404b-89c3-1e7c2454319a.giffff" alt="MasterHead" style="max-width:100%; height:auto;">
-</a>
-
 <h1 align="center">Hi 👋, This is Sujan</h1>
 <h3 align="center">Your Favorite Cloud Engineer from Asia&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
 
