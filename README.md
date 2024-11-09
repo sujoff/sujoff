@@ -3,17 +3,17 @@
 
 
 
-- 🔭 I’m **Senior SRE/Devops engineer** at popular freelancing site [Upwork](https://www.upwork.com/freelancers/sujanp19)
+- 🔭 I’m **a Freelancer SRE/Devops** at [Upwork](https://www.upwork.com/freelancers/sujanp19)
 
-- 🌱 Currently using **AWS, Terraform, Kubernetes, and several Cloud Services**
+- 🌱 Currently using **AWS, Azure, Terraform, Kubernetes, and Ansible etc. etc.**
 
-- 📫 Connect with me in LinkedIn at **[@unixsujan](https://linkedin.com/in/unixsujan)**
+- 📫 Connect with me at **[@Linkedin](https://linkedin.com/in/unixsujan)**
   
 - ⚡ Invite me with your contract [here](https://www.upwork.com/freelancers/sujanp19)
 
 - 💬 Ask me about **CI/CD, Linux, Terraform, Kubernetes, , Docker, AWS and Azure**
 
-- ⚡ Fun fact **I communicate clearly and concisely**
+- ⚡ Fun fact : **Why did the DevOps engineer leave the restaurant unhappy? ... There was no version control on the menu! ☠️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
