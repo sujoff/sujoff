@@ -11,7 +11,7 @@
   
 - ⚡ Invite me with your contract [here](https://www.upwork.com/freelancers/sujanp19)
 
-- 💬 Ask me about **CI/CD, Linux, Terraform, Kubernetes, , Docker, AWS and Azure**
+- 💬 Currently working in IoT server configuration project at **Saudi Aramco, Qunfudah Site**
 
 - ⚡ Fun fact : **Why did the DevOps engineer leave the restaurant unhappy? ... There was no version control on the menu! ☠️**
 
