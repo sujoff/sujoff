@@ -8,12 +8,8 @@
 - 🌱 Currently using **AWS, Azure, Terraform, Kubernetes, and Ansible etc. etc.**
 
 - 📫 Connect with me at **[@Linkedin](https://linkedin.com/in/unixsujan)**
-  
-- ⚡ Invite me with your contract [here](https://www.upwork.com/freelancers/sujanp19)
 
 - 💬 Currently working in IoT server configuration project at **Saudi Aramco, Qunfudah Site**
-
-- ⚡ Fun fact : **Why did the DevOps engineer leave the restaurant unhappy? ... There was no version control on the menu! ☠️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
