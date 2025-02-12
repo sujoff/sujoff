@@ -9,7 +9,7 @@
 
 - 📫 Connect with me at **[@Linkedin](https://linkedin.com/in/unixsujan)**
 
-- 💬 Currently working in IoT server configuration project at **Saudi Aramco, Qunfudah Site**
+- 💬 Currently working in IoT server configuration project at **Saudi Aramco** [Qunfudah Site for Pkg-11](https://nbccompany.com/2024/06/30/we-provide-asset-management-and-monitoring-system/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
