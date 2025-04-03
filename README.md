@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Linux specialized DevOps engineer from Nepal&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
 </br>
 
-- 🔭 **Active Freelancer SRE/Devops** at [Upwork](https://www.upwork.com/freelancers/sujanp19)
+- 🔭 **Actively Freelancing as DevOps/SRE** at [Upwork](https://www.upwork.com/freelancers/sujanp19)
 
 - 🌱 Day-to-day stack :: **Azure, AWS, Plesk, Kubernetes, Ansible, GitHub Action, Gitlab CI, Docker, Bash Scripts,  ...**
 
