@@ -2,15 +2,15 @@
 <h3 align="center">I'm a Linux specialized DevOps engineer from Nepal&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="20" height="20"></h3>
 </br>
 
-- 🔭 **Actively Freelancing as DevOps/SRE** at [Upwork](https://www.upwork.com/freelancers/sujanp19)
+- 🔭 **Actively Freelancing as DevOps/SRE** at <a href="https://www.upwork.com/freelancers/sujanp19" target="_blank" rel="noopener noreferrer">Upwork</a>
 
-- 🌱 Day-to-day stack :: **Azure, AWS, Plesk, Kubernetes, Ansible, GitHub Action, Gitlab CI, Docker, Bash Scripts,  ...**
+- 🌱 Day-to-day stack :: **Azure, AWS, Plesk, Kubernetes, Ansible, GitHub Action, Gitlab CI, Docker, Bash Scripts, ...**
 
-- 📫 Connect with me at **[@Linkedin](https://linkedin.com/in/unixsujan)**
+- 📫 Connect with me at <a href="https://linkedin.com/in/unixsujan" target="_blank" rel="noopener noreferrer">[@Linkedin]</a>
 
-- 💬 Currently working in IoT server configuration project at **Saudi Aramco** ['Qunfudah Site - Pkg-11'](https://nbccompany.com/2024/06/30/we-provide-asset-management-and-monitoring-system/)
+- 💬 Currently working in IoT server configuration project at **Saudi Aramco** <a href="https://nbccompany.com/2024/06/30/we-provide-asset-management-and-monitoring-system/" target="_blank" rel="noopener noreferrer">['Qunfudah Site - Pkg-11']</a>
 
-  </br>
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
