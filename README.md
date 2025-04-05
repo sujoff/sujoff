@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Sujan</h1>
-<h3 align="center">I am a DevOps engineer with specialized expertise in Linux and extensive experience of Cloud Stacks.</h3>
+<h3 align="center">I am a DevOps engineer with specialized expertise in Linux</h3>
 </br>
 
 - 🔭 **Actively Freelancing as DevOps/SRE** at <a href="https://www.upwork.com/freelancers/sujanp19" target="_blank" rel="noopener noreferrer">Upwork</a>
