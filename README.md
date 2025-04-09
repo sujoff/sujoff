@@ -7,7 +7,7 @@
 
 - 📫 Connect with me at <a href="https://linkedin.com/in/unixsujan" target="_blank" rel="noopener noreferrer">[@Linkedin]</a>
 
-- 💬 Currently working in IoT server configuration project at **Saudi Aramco** <a href="https://nbccompany.com/2024/06/30/we-provide-asset-management-and-monitoring-system/" target="_blank" rel="noopener noreferrer">['Qunfudah Site - Pkg-11']</a>
+- 💬 Recently completed IoT server configuration project at **Saudi Aramco** <a href="https://nbccompany.com/2024/06/30/we-provide-asset-management-and-monitoring-system/" target="_blank" rel="noopener noreferrer">['Qunfudah Site - Pkg-11']</a>
 
 </br>
 
