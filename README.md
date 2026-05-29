@@ -5,7 +5,7 @@
 
 - 🌱 Day-to-day stack :: Azure, AWS, Plesk, Kubernetes, Ansible, Shell scrips, Docker, Terminal :(
 
-- 📫 Connect with me at <a href="https://linkedin.com/in/unixsujan" target="_blank" rel="noopener noreferrer">[@Linkedin]</a>
+- 📫 Connect with me at <a href="https://linkedin.com/in/sujoff" target="_blank" rel="noopener noreferrer">[@Linkedin]</a>
 
 - 💬 Recently completed IoT server configuration project at **Saudi Aramco** <a href="https://nbccompany.com/2024/06/30/we-provide-asset-management-and-monitoring-system/" target="_blank" rel="noopener noreferrer">['Qunfudah Site - Pkg-11']</a>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/unixsujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unixsujan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujoff" height="30" width="40" /></a>
 </p>
 </br>
 
