@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Sujan</h1>
 <h3 align="center">I am a DevOps engineer with specialized expertise in Linux</h3>
 
-- 🔭 **Actively Freelancing as Linux Engineer & sysAdmin** at <a href="https://www.upwork.com/freelancers/sujanp19" target="_blank" rel="noopener noreferrer">Upwork</a>
+- 🔭 **Actively Freelancing as Linux Engineer & sysAdmin** at <a href="https://www.upwork.com/freelancers/sujoff" target="_blank" rel="noopener noreferrer">Upwork</a>
 
 - 🌱 Day-to-day stack :: Azure, AWS, Plesk, Kubernetes, Ansible, Shell scrips, Docker, Terminal :(
 
